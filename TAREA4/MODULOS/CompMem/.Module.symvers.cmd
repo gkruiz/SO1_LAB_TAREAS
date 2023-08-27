@@ -1,0 +1,1 @@
+cmd_/home/kruiz/TAREAS_SOPES/TAREA4/MODULOS/CompMem/Module.symvers := sed 's/\.ko$$/\.o/' /home/kruiz/TAREAS_SOPES/TAREA4/MODULOS/CompMem/modules.order | scripts/mod/modpost -m -a  -o /home/kruiz/TAREAS_SOPES/TAREA4/MODULOS/CompMem/Module.symvers -e -i Module.symvers   -T -

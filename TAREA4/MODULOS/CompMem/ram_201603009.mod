@@ -1,0 +1,2 @@
+/home/kruiz/TAREAS_SOPES/TAREA4/MODULOS/CompMem/ram_201603009.o
+
